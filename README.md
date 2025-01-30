@@ -10,7 +10,6 @@
 
 ---
 
-## 📂 **Estructura del Proyecto**
 
 
 ## 📊 **Metodología Aplicada (CRISP-DM)**  
@@ -64,9 +63,16 @@ Este proyecto sigue la metodología **CRISP-DM**, estructurando el flujo de trab
 
 📩 Contacto
 📧 Autor: Ricardo Delannoy Suazo
-🔗 LinkedIn: 
+🔗 LinkedIn: https://www.linkedin.com/in/ricardo-delannoy-suazo-51836a92/
 🐙 GitHub: Paulelien
 
----
+¿Cómo usar este proyecto?
+1️⃣ Clona el repositorio:
+
+git clone https://github.com/Paulelien/Titanic-Analysis.git
+cd Titanic-Analysis
+2️⃣ Instala las dependencias:
+
+pip install -r requirements.txt
 
 
