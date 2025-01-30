@@ -1,5 +1,5 @@
 
-📊 Análisis de Supervivencia del Titanic 🚢
+📊 ANÁLISIS DE SUPERVIVENCIA DEL TITANIC 🚢
 
 ## 📌 **Objetivos del Proyecto**
 ✔️ Realizar un **Análisis Exploratorio de Datos (EDA)** para identificar patrones en las características de los pasajeros.  
@@ -62,15 +62,19 @@ Este proyecto sigue la metodología **CRISP-DM**, estructurando el flujo de trab
 ✔️ Los clusters generados ayudaron a segmentar grupos con mayor probabilidad de supervivencia.  
 
 📩 Contacto
+
 📧 Autor: Ricardo Delannoy Suazo
+
 🔗 LinkedIn: https://www.linkedin.com/in/ricardo-delannoy-suazo-51836a92/
+
 🐙 GitHub: Paulelien
 
 ¿Cómo usar este proyecto?
 1️⃣ Clona el repositorio:
 
-git clone https://github.com/Paulelien/Titanic-Analysis.git
+git clone https://github.com/Paulelien/Reto_titanic.git 
 cd Titanic-Analysis
+
 2️⃣ Instala las dependencias:
 
 pip install -r requirements.txt
