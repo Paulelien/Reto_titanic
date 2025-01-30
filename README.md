@@ -1,5 +1,17 @@
 
+📊 Análisis de Supervivencia del Titanic 🚢
+
+## 📌 **Objetivos del Proyecto**
+✔️ Realizar un **Análisis Exploratorio de Datos (EDA)** para identificar patrones en las características de los pasajeros.  
+✔️ Aplicar técnicas de **reducción de dimensionalidad** (Análisis Factorial y PCA).  
+✔️ Implementar algoritmos de **clustering** (K-Means, t-SNE) para segmentar los pasajeros.  
+✔️ Entrenar modelos de **Machine Learning** (Random Forest) para predecir la supervivencia.  
+✔️ Evaluar y optimizar el rendimiento del modelo con **ajuste de hiperparámetros y validación cruzada**.  
+
 ---
+
+## 📂 **Estructura del Proyecto**
+
 
 ## 📊 **Metodología Aplicada (CRISP-DM)**  
 Este proyecto sigue la metodología **CRISP-DM**, estructurando el flujo de trabajo en seis fases:
@@ -50,10 +62,11 @@ Este proyecto sigue la metodología **CRISP-DM**, estructurando el flujo de trab
 ✔️ El modelo **Random Forest con optimización de hiperparámetros** obtuvo el mejor desempeño (**AUC = 0.87**).  
 ✔️ Los clusters generados ayudaron a segmentar grupos con mayor probabilidad de supervivencia.  
 
+📩 Contacto
+📧 Autor: Ricardo Delannoy Suazo
+🔗 LinkedIn: 
+🐙 GitHub: Paulelien
+
 ---
 
-## 🛠️ **Requisitos para Ejecutar el Proyecto**
-Para ejecutar este proyecto en tu entorno local, instala las dependencias necesarias con:
 
-```bash
-pip install -r requirements.txt
